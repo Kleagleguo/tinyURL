@@ -1,9 +1,9 @@
-package io.bingkun.core;
+package io.bingkun.core.tinyurl;
 
 /**
- * Created by guobingkun on 11/27/15.
+ * @author Bingkun Guo
  */
-public interface URLConverter
+public interface TinyURL
 {
   /**
    * Convert a short URL to its corresponding long URL

@@ -8,5 +8,11 @@
   <artifactId>tinyURL</artifactId>
   <version>1.0-SNAPSHOT</version>
 
-
+  <dependencies>
+    <dependency>
+      <groupId>org.jdbi</groupId>
+      <artifactId>jdbi</artifactId>
+      <version>2.70</version>
+    </dependency>
+  </dependencies>
 </project>
